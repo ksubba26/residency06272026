@@ -1,0 +1,14 @@
+E:\Kshitiz\Residency06272026\C#-Version\bin\Debug\net8.0\BookCatalog.exe
+E:\Kshitiz\Residency06272026\C#-Version\bin\Debug\net8.0\BookCatalog.deps.json
+E:\Kshitiz\Residency06272026\C#-Version\bin\Debug\net8.0\BookCatalog.runtimeconfig.json
+E:\Kshitiz\Residency06272026\C#-Version\bin\Debug\net8.0\BookCatalog.dll
+E:\Kshitiz\Residency06272026\C#-Version\bin\Debug\net8.0\BookCatalog.pdb
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.AssemblyInfoInputs.cache
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.AssemblyInfo.cs
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.csproj.CoreCompileInputs.cache
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.dll
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\refint\BookCatalog.dll
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.pdb
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\BookCatalog.genruntimeconfig.cache
+E:\Kshitiz\Residency06272026\C#-Version\obj\Debug\net8.0\ref\BookCatalog.dll
